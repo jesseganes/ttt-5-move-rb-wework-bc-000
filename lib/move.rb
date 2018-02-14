@@ -8,3 +8,4 @@ end
 
 def input_to_index(move)
   user_input = "#{move.to_i - 1}"
+end
