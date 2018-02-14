@@ -8,5 +8,5 @@ end
 
 def input_to_index(move)
   user_input = "#{move}"
-  user_input.to_i - 1
+  user_input.to_i - 1.strip
 end
