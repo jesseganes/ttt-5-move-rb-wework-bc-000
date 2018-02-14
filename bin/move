@@ -2,3 +2,5 @@
 
 require_relative '../lib/move.rb'
 
+def update_board_at_with(array, index, value)
+board[inderx] = 
