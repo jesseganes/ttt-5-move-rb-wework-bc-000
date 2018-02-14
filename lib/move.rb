@@ -7,5 +7,5 @@ def display_board(board)
 end
 
 def input_to_index(move)
-  user_input = "#{move.to_i - 1}"
+  user_input = "#{move}.to_i"
 end
